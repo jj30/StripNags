@@ -6,6 +6,10 @@ I got the idea from a reddit user, who when he encounters a nag screen, just doe
 
 That is why it is in the 'productivity' section of the extensions store. Because I need it to resume coding my other project.
 
-Screen shot:
+Screen shots:
 
 https://raw.githubusercontent.com/jj30/StripNags/master/StripNags.jpg
+
+And here they tried to block me for my adblocker:
+
+https://raw.githubusercontent.com/jj30/StripNags/master/extension.png
